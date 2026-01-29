@@ -42,19 +42,4 @@ I’m **open to collaboration** on interesting projects, startups ideas, and ope
 
 ---
 
-## 📌 What I’ve been working on
-- Internal operational dashboards for delivery/logistics systems  
-- Customer-facing e-commerce applications  
-- Performance improvements, bug fixing & refactoring  
-- REST API integration & full product feature delivery  
-
----
-
-## 📊 GitHub Stats
-
-![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=zak1sn0good&show_icons=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zak1sn0good&layout=compact)
-
----
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zak1sn0good.zak1sn0good)
